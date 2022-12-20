@@ -6,9 +6,9 @@ Airbnb ~ Toronto View is an interactive dashboard that gives a visual summary/bi
 
 ## Technologies
 
-Tableau
+![Tableau](https://img.shields.io/badge/-Tableau-blue)
 <br>
-<br> The data was extracted from [InsiderAirbnb - API](http://insideairbnb.com/get-the-data), transformed which included cleaning, modelling, and loading along with creation of new measures, and custom tables to create the interactive dashboard.
+<br> The data was extracted from [InsiderAirbnb - API](http://insideairbnb.com/get-the-data), transformed which included cleaning, modelling, and loading along with the creation of new measures, and custom tables to create the interactive dashboard.
 
 
 
